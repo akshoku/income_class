@@ -45,5 +45,9 @@ native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, 
 # Target variable:  
 salary: >50K,<=50K
 
+# Top 3 important features:  
+marital.status = Married-civ-spouse, 
+marital.status = Never-married
+relationship = Own-child
 
 
