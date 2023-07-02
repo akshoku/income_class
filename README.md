@@ -12,9 +12,8 @@ Reason - Plotly plots are not visible in github.
 
 Dataset: https://www.kaggle.com/datasets/uciml/adult-census-income
 
-# About the Dataset
 
-# Features:  
+# Data Features:  
 Age: Describes the age of individuals. Continuous.
 
 Workclass: Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay, Never-worked.
