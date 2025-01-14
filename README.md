@@ -5,7 +5,7 @@ Income Classification Problem
 # Business Use:  
 This model can be used by government agencies to check for any misreporting of the amount of income earned by an individual for the purpose of tax evasion.
 # Note
-Use this link to view notebook: https://nbviewer.org/github/akshoku/income_class/blob/main/Adult_project1_final.ipynb
+Use this link to view notebook: https://nbviewer.org/github/akshoku/income_class/blob/main/Adult_project_final.ipynb
 
 Reason - Plotly plots are not visible in github.
 
